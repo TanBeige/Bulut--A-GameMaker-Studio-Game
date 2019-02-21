@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="pan 4_data" version="1.3.0" audacityversion="2.0.2" sel0="0.0000000000" sel1="2.1792812500" vpos="0" h="0.0000000000" zoom="552.9344852802" rate="96000.0">
+	<tags/>
+	<wavetrack name="pan 4 MP3" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="96000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="209211">
+				<waveblock start="0">
+					<simpleblockfile filename="e000070f.au" len="209211" min="-0.135085" max="0.126786" rms="0.017545"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="pan 4 MP3" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="96000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="209211">
+				<waveblock start="0">
+					<simpleblockfile filename="e000074a.au" len="209211" min="-0.118803" max="0.129086" rms="0.017765"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
