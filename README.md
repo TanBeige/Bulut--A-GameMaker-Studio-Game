@@ -1,5 +1,7 @@
 # Bulut: A GameMaker Studio Game
 
+Made in March 2016.
+
 Version: 0.9.9
 The main game, more of a minigame. Although simple it was a practice project between Tan Arin and Arthur Bobrek (Ant Art).
 
